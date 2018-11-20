@@ -1,3 +1,12 @@
+kodit.io frontend developer task:
+
+Implement a user interface providing the data-input functionality found in the current website valuation form and extend it by displaying not only an estimated price but also a data visualisation widget providing related insight. Data to populate the visualisation can be fetched from the endpoint provided below. The widget should be interactive and offer at least 1 level of drill-down information.
+Note: returning an accurate estimation is not relevant and can be mocked up.
+
+
+
+
+
 Instructions for running the app:
 
  - First install Node modules with "npm install" or "yarn"
